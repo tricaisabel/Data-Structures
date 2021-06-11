@@ -1,0 +1,6 @@
+5
+Gigel 18 9.5
+Dorel 19 9.8
+Danut 17 9.7
+Vasile 20 9.2
+Georgel 22 9.9

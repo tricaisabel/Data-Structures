@@ -1,0 +1,4 @@
+﻿  MatriceRara.cpp
+C:\Users\LENOVO\Desktop\SDD\MatriceRara\MatriceRara\MatriceRara.cpp(57,10): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\LENOVO\Desktop\SDD\MatriceRara\MatriceRara\MatriceRara.cpp(272,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  MatriceRara.vcxproj -> C:\Users\LENOVO\Desktop\SDD\MatriceRara\Debug\MatriceRara.exe

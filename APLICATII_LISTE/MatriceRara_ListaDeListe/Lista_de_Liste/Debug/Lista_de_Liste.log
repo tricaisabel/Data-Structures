@@ -1,0 +1,4 @@
+﻿  Matrice_to_Lista_de_Liste.cpp
+C:\Users\LENOVO\Desktop\SDD\LISTE\Lista_de_Liste\Lista_de_Liste\Matrice_to_Lista_de_Liste.cpp(121,6): warning C4101: 'i': unreferenced local variable
+C:\Users\LENOVO\Desktop\SDD\LISTE\Lista_de_Liste\Lista_de_Liste\Matrice_to_Lista_de_Liste.cpp(207,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Lista_de_Liste.vcxproj -> C:\Users\LENOVO\Desktop\SDD\LISTE\Lista_de_Liste\Debug\Lista_de_Liste.exe
