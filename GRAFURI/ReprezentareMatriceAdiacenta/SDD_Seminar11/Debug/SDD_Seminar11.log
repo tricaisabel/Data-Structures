@@ -1,0 +1,3 @@
+﻿  SDD_Seminar11.cpp
+C:\Users\LENOVO\Desktop\SDD\GRAFURI\SDD_Seminar11\SDD_Seminar11.cpp(222,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  SDD_Seminar11.vcxproj -> C:\Users\LENOVO\Desktop\SDD\GRAFURI\Debug\SDD_Seminar11.exe
