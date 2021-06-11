@@ -1,0 +1,31 @@
+6
+12
+Popescu Andrei
+Simptome de raceala
+23
+restul pacientilor
+23
+Marinescu Miruna
+Nastere
+26
+gravide si copii cu varsta sub 1 an
+34
+Mitran George
+Luxatie de picior
+5
+copii cu varsta peste 1 an
+56
+Iliescu Nicole
+Febra
+21
+restul pacientilor
+67
+Mitu Tudor
+Pierderea mirosului
+19
+restul pacientilor
+78
+Stan Andreea
+Dureri cronice
+24
+gravide si copii cu varsta sub 1 an

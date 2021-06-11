@@ -1,0 +1,3 @@
+﻿  ArboriBinari.cpp
+C:\Users\LENOVO\source\repos\ArboriBinari\ArboriBinari\ArboriBinari.cpp(275,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ArboriBinari.vcxproj -> C:\Users\LENOVO\source\repos\ArboriBinari\Debug\ArboriBinari.exe

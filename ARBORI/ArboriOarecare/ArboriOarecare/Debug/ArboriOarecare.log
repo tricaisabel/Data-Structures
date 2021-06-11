@@ -1,0 +1,3 @@
+﻿  ArboriOarecare.cpp
+C:\Users\LENOVO\Desktop\SDD\ArboriOarecare\ArboriOarecare\ArboriOarecare.cpp(105,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ArboriOarecare.vcxproj -> C:\Users\LENOVO\Desktop\SDD\ArboriOarecare\Debug\ArboriOarecare.exe

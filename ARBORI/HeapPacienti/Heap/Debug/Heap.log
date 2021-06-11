@@ -1,0 +1,6 @@
+﻿  Heap.cpp
+C:\Users\LENOVO\Desktop\SDD\Heap\Heap\Heap.cpp(47,6): warning C4101: 'prioritate': unreferenced local variable
+C:\Users\LENOVO\Desktop\SDD\Heap\Heap\Heap.cpp(153,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\LENOVO\Desktop\SDD\Heap\Heap\Heap.cpp(156,6): warning C4101: 'n': unreferenced local variable
+C:\Users\LENOVO\Desktop\SDD\Heap\Heap\Heap.cpp(158,7): warning C4101: 'buffer': unreferenced local variable
+  Heap.vcxproj -> C:\Users\LENOVO\Desktop\SDD\Heap\Debug\Heap.exe

@@ -1,0 +1,3 @@
+﻿  ArboreRosuNegru.cpp
+C:\Users\LENOVO\Desktop\SDD\ArboriBinari\ArboriBinari\ArboreRosuNegru.cpp(329,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  ArboriBinari.vcxproj -> C:\Users\LENOVO\Desktop\SDD\ArboriBinari\Debug\ArboriBinari.exe
